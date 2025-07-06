@@ -10,11 +10,11 @@ An intelligent Applicant Tracking System (ATS) designed to streamline your hirin
 Clone the repository and change into the project directory:
 
 git clone https://github.com/krgau020/ATS_Application_Tracking_System_usingGEMINI.git  
-cd ATS_Application_Tracking_System_usingGEMINI
+cd ATS--Smarter-Recruitment-with-AI
 
 ---
 
-### 2️⃣ (Optional) Create a Virtual Environment  
+### 2️⃣  Create a Virtual Environment  
 It’s recommended to create and activate a virtual environment.
 
 Create:  
@@ -44,7 +44,7 @@ GOOGLE_API_KEY=YOUR_GEMINI_API_KEY
 ---
 
 ## 🚀 Usage  
-Run the app or notebook:
+Run the app:
 
 - Use the provided notebooks or scripts to process resumes.
 - Upload PDF resumes — the system will:
