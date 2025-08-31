@@ -67,6 +67,6 @@ Run the app:
 - **PDF Parsing & Manipulation:** Integrate and manage PDF resumes easily with PyPDF2.
 
 ---
-
+ 
 ## 📈 Example Use Case  
 Upload multiple candidate resumes → extract and analyze key information → automate screening → shortlist top candidates.
